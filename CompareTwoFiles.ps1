@@ -1,7 +1,7 @@
 ﻿$strReference = ""
 $strDifference = ""
 $ResultIdentical = ""
-$ResultDifferent = ""
+$ResultDifference = ""
 
 $file1 = "C:\temp\file1.txt"
 $file2 = "C:\temp\file2.txt"
